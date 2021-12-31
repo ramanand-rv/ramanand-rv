@@ -39,7 +39,7 @@
 <hr>
 
 <p align="center">
-    <img src="https://github.com/ramanand-rv/ramanand-rv/blob/main/giphy(1).gif " height="300"
+    <img src="https://github.com/ramanand-rv/ramanand-rv/blob/main/giphy (1).gif " height="300"
         width="400" alt="gif">
 
 </p>
